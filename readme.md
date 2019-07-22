@@ -5,4 +5,4 @@
 4. Make database.sqlite
 5. path and change .env file for the database
 6. Php artisan key:generate
-7. php artisan migrage:refresh
+7. php artisan migrage:refresh"# is601Seeding" 
